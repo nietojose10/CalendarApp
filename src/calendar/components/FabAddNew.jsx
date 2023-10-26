@@ -14,8 +14,8 @@ export const FabAddNew = () => {
             end: addHours( new Date(), 2 ),
             bgColor: '#4r4r4r',
             user: {
-            _id: '123',
-            name: 'Jose Nieto'
+            _id: '',
+            name: ''
             }
         });
         openDateModal();
